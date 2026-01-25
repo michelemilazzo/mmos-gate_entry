@@ -1,0 +1,17 @@
+{
+  "app_name": "gate_entry",
+  "app_title": "Gate Entry",
+  "app_publisher": "MMOS Marketplace",
+  "app_description": "Gate Entry",
+  "app_icon": "octicon octicon-star",
+  "app_color": "#f48024",
+  "app_email": "developers@frappe.io",
+  "app_license": "MIT",
+  "app_version": "0.1.0",
+  "app_category": "Marketplace",
+  "app_type": "App",
+  "docs_url": "https://cloud.frappe.io/marketplace/apps/gate_entry",
+  "supported_versions": [
+    "Version 16"
+  ]
+}
